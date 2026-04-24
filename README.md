@@ -6,16 +6,16 @@
 🚀 **Desenvolvedora**
 🇧🇷 Brasil
 
-  **Atualmente estudante de SI na Universidade Estadual de Campinas (UNICAMP).** Possuo uma grande paixão pela tecnologia e estou focado em construir soluções eficientes, aprendendo algo novo todos os dias. Seja bem-vindo(a) ao meu perfil!
+  **Atualmente estudante de SI na Universidade Estadual de Campinas (UNICAMP).** Tenho um grande interesse pela tecnologia e em construir soluções eficientes, aprendendo algo novo todos os dias. Seja bem-vindo(a) ao meu perfil!
 
 
 
 - 🔭 I’m currently studying Infomations Systems in Unicamp
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning CYBERSECURITY
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with tecnological solutions.
+- 💬 Ask me about anything.
+- 📫 How to reach me: send me a message on Instagram: @gioliverz
+- 😄 Pronouns: she/her.
+- ⚡ Fun fact: I like sports.
 -->

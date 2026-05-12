@@ -1,7 +1,7 @@
 # Hi curious! 👋
 ## I'm Giovana Oliver. G.
 
-**gioliverz/gioliverz** is a ✨ inicial ✨ repository 
+**gioliverz/gioliverz** is a ✨ inicial ✨ repository about myself
 
 🚀 Dev in
 🇧🇷 Brazil
@@ -30,7 +30,8 @@
 - 🌱 I’m currently learning CYBERSECURITY
 - 👯 I’m looking to collaborate on ...
 - 💻 I look forward helping with tecnological solutions.
-- 💬 Ask me about anything.
 - 📫 How to reach me: send me a message on Instagram: @gioliverz
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I like sports.
+
+Layout inspired by "https://github.com/fgabrielmorais"

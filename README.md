@@ -3,10 +3,11 @@
 <!--
 **gioliverz/gioliverz** is a ✨ inicial ✨ repository 
 
-🚀 **Desenvolvedora**
-🇧🇷 Brasil
+🚀 **Dev**
+🇧🇷 Brazil
 
-  **Atualmente estudante de SI na Universidade Estadual de Campinas (UNICAMP).** Tenho um grande interesse pela tecnologia e em construir soluções eficientes, aprendendo algo novo todos os dias. Seja bem-vindo(a) ao meu perfil!
+  **Nowadays I'm a student in State University of Campinas (UNICAMP).** I have a big interest in tecnology, solution buildings and
+  learning new things everyday. Welcome to my profile!!
 
 
 

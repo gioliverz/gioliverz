@@ -32,6 +32,6 @@
 - 💻 I look forward helping with tecnological solutions.
 - 📫 How to reach me: send me a message on Instagram: @gioliverz
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: I like sports.
+- ⚡ Fun fact: I like sports, especially volleyball and jiu-jitsu.
 
 Layout inspired by "https://github.com/fgabrielmorais"
